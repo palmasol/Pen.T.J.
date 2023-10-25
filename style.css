@@ -1,10 +1,13 @@
-h1 {
-    font-size: 30px;
+
+
+#id {
+     font-size: 30px;
     text-align: center;
+    color: aqua;
 }
 
 
-p{
+.texto{
     text-align: center;
     color: red;
     font-size: 20px;
